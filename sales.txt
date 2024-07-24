@@ -1,0 +1,44 @@
+[
+    {
+        "sales_id": 1,
+        "product_id": 1,
+        "quantity": 30,
+        "sold_at": "2024-07-24 12:58:47",
+        "product_name": "Books"
+    },
+    {
+        "sales_id": 2,
+        "product_id": 2,
+        "quantity": 20,
+        "sold_at": "2024-07-24 12:59:03",
+        "product_name": "Pens"
+    },
+    {
+        "sales_id": 3,
+        "product_id": 3,
+        "quantity": 22,
+        "sold_at": "2024-07-24 13:03:03",
+        "product_name": "Laptop"
+    },
+    {
+        "sales_id": 4,
+        "product_id": 3,
+        "quantity": 30,
+        "sold_at": "2024-07-24 13:03:21",
+        "product_name": "Laptop"
+    },
+    {
+        "sales_id": 5,
+        "product_id": 3,
+        "quantity": 10,
+        "sold_at": "2024-07-24 13:04:45",
+        "product_name": "Laptop"
+    },
+    {
+        "sales_id": 1,
+        "product_id": 1,
+        "quantity": 6,
+        "sold_at": "2024-07-24 14:48:22",
+        "product_name": "Books"
+    }
+]
